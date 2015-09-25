@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusAddressRouteApp", "BusAddressRouteApp\BusAddressRouteApp.csproj", "{A9D3269A-0174-4F4B-8FB0-27EF90BF0728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusAddressRouteApp.Droid", "Droid\BusAddressRouteApp.Droid.csproj", "{D4640B2A-7920-4F28-AD5A-E6DCD754D71F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusAddressRouteApp.UITests", "UITests\BusAddressRouteApp.UITests.csproj", "{060D6B86-7FDD-480F-9BAD-F43A6EACAFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D3269A-0174-4F4B-8FB0-27EF90BF0728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D3269A-0174-4F4B-8FB0-27EF90BF0728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D3269A-0174-4F4B-8FB0-27EF90BF0728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D3269A-0174-4F4B-8FB0-27EF90BF0728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4640B2A-7920-4F28-AD5A-E6DCD754D71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4640B2A-7920-4F28-AD5A-E6DCD754D71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4640B2A-7920-4F28-AD5A-E6DCD754D71F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D4640B2A-7920-4F28-AD5A-E6DCD754D71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4640B2A-7920-4F28-AD5A-E6DCD754D71F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060D6B86-7FDD-480F-9BAD-F43A6EACAFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060D6B86-7FDD-480F-9BAD-F43A6EACAFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060D6B86-7FDD-480F-9BAD-F43A6EACAFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060D6B86-7FDD-480F-9BAD-F43A6EACAFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
